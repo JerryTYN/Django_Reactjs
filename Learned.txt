@@ -1,5 +1,0 @@
-Qui trình:
-- Test urls
-- Tạo models
-- Tạo serializer
-- Tạo view
